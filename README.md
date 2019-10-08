@@ -2,4 +2,4 @@
 ROS Arduino Robot 
 
 The Project is to create a mapping 2wd robot using Arduino Uno with ROS and RPLidar
-![](images\ROSArduinoRobot.jpeg)
+![](images/ROSArduinoRobot.jpeg)
